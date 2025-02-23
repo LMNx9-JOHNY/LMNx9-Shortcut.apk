@@ -1,6 +1,12 @@
-# LMNx9-Shortcut.apk
-You can find all Needable setting easily in this app.
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-Shortcut.apk/blob/main/Screenshot_20231201-021238.png)
-![logo](https://github.com/LMNx9-JOHNY/LMNx9-Shortcut.apk/blob/main/Screenshot_20231201-021245.png)
-# <a href="https://github.com/LMNx9-JOHNY/LMNx9-Shortcut.apk/raw/main/LMNx9%20Shortcut_1.0.apk">DOWNLOAD NOW</a>
-# @DARK_LMNx9
+# LMNx9 Shortcut v2.0
+
+ - Android All Hidden Setting Shortcuts
+ - Developer : [DARK LMNx9](https://t.me/x_TEAM_LMNx9)
+ - Telegram Channel : [Join Now](https://t.me/TEAM_LMNx9)
+   
+![logo](https://github.com/LMNx9-JOHNY/LMNx9-Shortcut.apk/blob/main/PhotoCollage_1740336734019.jpg)
+
+# <a href="https://github.com/LMNx9-JOHNY/LMNx9-Shortcut.apk/blob/main/lmnx9_shortcut_2.0.apk">DOWNLOAD NOW</a>
+
+
+# v2.0 © DARK TEAM LMNx9
